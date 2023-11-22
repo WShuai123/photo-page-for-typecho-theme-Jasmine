@@ -35,15 +35,15 @@
 
 示例图：
 
-![]("./pic/3.jpg")
+![]("https://github.com/WShuai123/photo-page-for-typecho-theme-Jasmine/blob/main/3.jpg")
 
 效果图：
 
-![]("./pic/14.jpg")
+![]("https://github.com/WShuai123/photo-page-for-typecho-theme-Jasmine/blob/main/14.jpg")
 
 灯箱效果图：
 
-![]("./pic/15.jpg")
+![]("https://github.com/WShuai123/photo-page-for-typecho-theme-Jasmine/blob/main/15.jpg")
 
 参考和修改自：
 

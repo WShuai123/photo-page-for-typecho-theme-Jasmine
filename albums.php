@@ -232,6 +232,10 @@ if (!defined("__TYPECHO_ROOT_DIR__")) {
           </script>
           <!-- 正文结束 -->
         </div>
+        <!--    评论区    -->
+          <div>
+             <?php $this->need("comments.php"); ?>
+          </div>
       </div>
     </div>
     <div class="hidden lg:col-span-3 lg:block" id="sidebar-right">

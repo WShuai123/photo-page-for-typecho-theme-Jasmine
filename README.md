@@ -1,5 +1,5 @@
 # photo-page-for-typecho-theme-Jasmine
-适配Typecho主题Jasmine的相册页面模板。
+适配Typecho主题[Jasmine](https://github.com/liaocp666/Jasmine)的相册页面模板。
 
 由于Jasmine默认没有图片灯箱效果，所以也加入了灯箱效果。如果自己配置了灯箱效果，注释掉219行的代码。
 

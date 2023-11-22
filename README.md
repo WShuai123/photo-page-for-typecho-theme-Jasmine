@@ -24,7 +24,13 @@
 例如：
 
 ```markdown
-章若楠,2023-11-11,./pic/1.webp
-章若楠2,2023/11/12,./pic/1.webp
-章若楠3, ,./pic/2.webp
+章若楠,2023-11-11,https://example1.com
+章若楠2,2023/11/12,https://example1.com
+章若楠3, ,https://example1.com
 ```
+
+时间有多种格式，也可以精确到时分秒。
+
+示例图：
+
+![]("./pic/3.jpg")

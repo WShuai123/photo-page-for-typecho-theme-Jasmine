@@ -1,9 +1,9 @@
 # photo-page-for-typecho-theme-Jasmine
 适配Typecho主题Jasmine的相册页面模板。
 
-参考和修改自：
-+ <https://zhsher.cn/posts/23204/>
-+ <https://blog.zhsher.cn/photos.html>
+由于Jasmine默认没有图片灯箱效果，所以也加入了灯箱效果。如果自己配置了灯箱效果，注释掉219行的代码。
+
+每页默认显示20张图片，点击加载更多按钮显示更多。
 
 ## 使用方法：
 
@@ -34,3 +34,16 @@
 示例图：
 
 ![]("./pic/3.jpg")
+
+效果图：
+
+![]("./pic/14.jpg")
+
+灯箱效果图：
+
+![]("./pic/15.jpg")
+
+参考和修改自：
+
++ <https://zhsher.cn/posts/23204/>
++ <https://blog.zhsher.cn/photos.html>

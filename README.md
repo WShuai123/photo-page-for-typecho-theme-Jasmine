@@ -31,6 +31,8 @@
 
 时间有多种格式，也可以精确到时分秒。
 
+演示站：<https://blog.nice2cu.cc/albums.html>
+
 示例图：
 
 ![]("./pic/3.jpg")

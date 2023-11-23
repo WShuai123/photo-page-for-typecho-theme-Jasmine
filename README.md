@@ -1,7 +1,11 @@
 # photo-page-for-typecho-theme-Jasmine
 适配Typecho主题[Jasmine](https://github.com/liaocp666/Jasmine)的相册页面模板。
 
-由于Jasmine没有为图片设置灯箱效果,所以在代码中添加了这个效果。如果你已经配置了其他的图片效果,请注释掉219行的代码,否则两种效果会同时显示,导致显示问题。
+由于Jasmine没有为图片设置灯箱效果,所以在代码中添加了这个效果。
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+如果你已经配置了其他的图片效果,请注释掉35行和219行灯箱效果相关的代码,否则多种图片效果会同时显示,导致显示问题。
+</div>
 
 每页默认显示20张图片，点击加载更多按钮显示更多。
 
@@ -11,7 +15,7 @@
 
 2. 打开Typecho后台---管理----独立页面----新增----右侧自定义模板----相册页面
 
-3. 标题为相册页面的标题，路径必须与代码第**158行**的路径相同。默认为albums
+3. 标题为相册页面的标题，路径必须与代码第**158行**的`location.pathname`路径相同。默认为albums
 
 调用格式:
 

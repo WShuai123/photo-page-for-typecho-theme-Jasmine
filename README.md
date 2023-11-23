@@ -3,9 +3,7 @@
 
 由于Jasmine没有为图片设置灯箱效果,所以在代码中添加了这个效果。
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
 如果你已经配置了其他的图片效果,请注释掉35行和219行灯箱效果相关的代码,否则多种图片效果会同时显示,导致显示问题。
-</div>
 
 每页默认显示20张图片，点击加载更多按钮显示更多。
 

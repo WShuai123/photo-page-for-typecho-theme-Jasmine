@@ -35,6 +35,11 @@ if (!defined("__TYPECHO_ROOT_DIR__")) {
           <script src="https://jsd.onmicrosoft.cn/gh/Tokinx/ViewImage/view-image.min.js"></script>
 
           <style>
+            /* 删除标题下的时间显示 */
+            .mx-1.flex.flex-col .dark\:text-gray-400 {
+              display: none;
+		        }
+            
             .gallery-photos a img {
               margin: 0!important;
               border-radius: 0;
